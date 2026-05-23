@@ -1,4 +1,3 @@
-#### 👋 Hello World ! i`m Boma Prasetyo 
 ![Boma Praetyo](img/github-header-banner.png)
 <!--
 **bomaprasetyo10-max/bomaprasetyo10-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning JavaScript & Solidity
+##### 🌱 I’m currently learning JavaScript & Solidity
 
 <!-- ![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif) -->
 
