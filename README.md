@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning JavaScript & Solidity
 
-![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif)
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif" width="100%" />
+<!-- ![Anime](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif) -->
 
 ##### ✨ My Dream Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,solidity&theme=light)](https://skillicons.dev)
@@ -28,3 +26,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" />
 <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 
+<!-- GIFT -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif" width="100%" />
