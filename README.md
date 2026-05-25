@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <!-- GIFT -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif" width="100%" height="50%"/>
 
-##### 🎧 My Music
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n7trvoijn6y7llqpxkaqlmzhxa&unique={true|1|on|yes})
-
-
-
 ##### 🕹️ Play Games With Me
 
 <picture>
