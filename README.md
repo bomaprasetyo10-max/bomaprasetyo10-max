@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />        <img src="https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF" />      <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
 
 <!-- GIFT -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif" width="100%" height="50%"/>
+<!-- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWR5ZGltOWdnNGZlMTlpc2M0aHdweXRxazZhdXZnZnRoNTRsbTlkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zosj7I3CP9Z7sDhW2X/giphy.gif" width="100%" height="50%"/> -->
+<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3kxcHh1OGEzMnpneGc4NnAzZ3E2emZlenVlNGg5NHNndmppazR0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOZt5tdGYxzz0H6Nfi/giphy.gif width="100%" height="50%"/>
 
 ##### 🕹️ Play Games With Me
 
