@@ -1,4 +1,6 @@
-![Boma Praetyo](img/github-header-banner.png)
+<!-- ![Boma Praetyo](img/github-header-banner.png) -->
+
+![Boma Praetyo](img/github-header-bannerrr.png)
 <!--
 **bomaprasetyo10-max/bomaprasetyo10-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
